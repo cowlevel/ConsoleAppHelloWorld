@@ -12,6 +12,7 @@ namespace ConsoleAppHelloWorld
 
             //  a comment
             //  comment number 2
+            //  comment number 3
         }
     }
 }
