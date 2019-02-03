@@ -11,6 +11,7 @@ namespace ConsoleAppHelloWorld
             Console.ReadKey();
 
             //  a comment
+            //  comment number 2
         }
     }
 }
